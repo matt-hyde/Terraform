@@ -1,0 +1,1 @@
+## Example of how to copy a resource using the count Meta-Argument.
